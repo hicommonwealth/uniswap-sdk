@@ -1453,6 +1453,18 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
+"@uniswap/sdk@../uniswap-sdk/uniswap-sdk-3.0.2.tgz":
+  version "3.0.2"
+  resolved "../uniswap-sdk/uniswap-sdk-3.0.2.tgz#bd10476f0be0ce120a9f92b61c85497ce2fbeaad"
+  dependencies:
+    "@uniswap/v2-core" "^1.0.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 "@uniswap/v2-core@^1.0.0":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@uniswap/v2-core/-/v2-core-1.0.1.tgz#af8f508bf183204779938969e2e54043e147d425"
